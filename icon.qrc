@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ic_close.svg</file>
+        <file>icon/ic_minimize.svg</file>
+        <file>icon/ic_tips_warning.svg</file>
+        <file>icon/ic_title.png</file>
+        <file>icon/ic_warning_red.png</file>
+        <file>icon/ic_warning_yellow.png</file>
+        <file>icon/ic_marquee_selected.png</file>
+        <file>icon/ic_marquee_unselected.png</file>
+    </qresource>
+</RCC>
